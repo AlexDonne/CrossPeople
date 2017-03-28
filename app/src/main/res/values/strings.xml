@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Social Project</string>
+
+    <string name="fb_login_cancel">Tentative de connexion interrompu</string>
+    <string name="fb_login_error">Erreur de connexion avec Facebook</string>
+    <string name="fb_login_failed">Erreur lors de l\'ouverture de la page</string>
+
+    <string name="btn_log_out">Déconnexion</string>
+    <string name="confirm_log_out">Etes vous sur de vouloir vous déconnecter ?</string>
+
+    <string name="btn_remove_room">Suppression de la salle</string>
+    <string name="confirm_remove_room">Etes vous sur de vouloir supprimer cette salle de chat ?</string>
+
+    <string name="login_activity">Login</string>
+    <string name="profile_activity">Profil</string>
+    <string name="maps_activity">Map</string>
+    <string name="main_activity">Chat</string>
+    <string name="chat_room">Salle</string>
+
+    <string name="menu_profil_text">Votre profil</string>
+    <string name="menu_chat_text">Salle de chat</string>
+    <string name="menu_maps_text">Votre position</string>
+
+    <string name="profile_image_content_description">Image de profil</string>
+    <string name="profile_meet_tv">Vos dernières rencontres :</string>
+    <string name="chat_room_send_imagebutton_content_description">Envoyer votre message</string>
+    <string name="recycler_image">Icon utilisateur</string>
+
+    <string name="btn_profil">Profil</string>
+    <string name="btn_maps">Maps</string>
+    <string name="btn_main">Chat</string>
+
+    <string name="notification_new_person">Vous avez découvert une nouvelle personne : </string>
+    <string name="notification_new_message">Vous avez un nouveau message de : </string>
+
+    <string name="facebook_app_id">1822110348043467</string>
+</resources>

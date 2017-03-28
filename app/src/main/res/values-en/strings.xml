@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Social Project</string>
+
+    <string name="fb_login_cancel">Attempted interrupted connection</string>
+    <string name="fb_login_error">Facebook Connection Error</string>
+    <string name="fb_login_failed">Error opening main page</string>
+
+    <string name="btn_log_out">Log Out</string>
+    <string name="confirm_log_out">Are you sure you want to logout?</string>
+
+    <string name="btn_remove_room">Remove this room</string>
+    <string name="confirm_remove_room">Are you sure you want to remove this room?</string>
+
+    <string name="login_activity">Login</string>
+    <string name="profile_activity">Profile</string>
+    <string name="maps_activity">Map</string>
+    <string name="main_activity">Chat</string>
+    <string name="chat_room">Room</string>
+
+    <string name="menu_profil_text">Your profile</string>
+    <string name="menu_chat_text">Room chat</string>
+    <string name="menu_maps_text">Your location</string>
+
+    <string name="chat_room_send_imagebutton_content_description">Send your message</string>
+    <string name="profile_image_content_description">Profile image</string>
+    <string name="profile_meet_tv">Your last meetings:</string>
+    <string name="recycler_image">User icon</string>
+
+    <string name="notification_new_person">You have discovered new person: </string>
+    <string name="notification_new_message">You have new message from: </string>
+
+    <string name="facebook_app_id">1822110348043467</string>
+    <string name="btn_main">Chat</string>
+    <string name="btn_maps">Maps</string>
+    <string name="btn_profil">Profile</string>
+</resources>

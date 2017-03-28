@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_profil"
+        android:icon="@drawable/ic_action_profil_custom"
+        android:title="@string/btn_profil"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_maps"
+        android:icon="@drawable/ic_action_map_custom"
+        android:title="@string/btn_maps"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_deconnexion"
+        android:icon="@drawable/ic_action_logout_custom"
+        android:title="@string/btn_log_out"
+        app:showAsAction="ifRoom" />
+</menu>
